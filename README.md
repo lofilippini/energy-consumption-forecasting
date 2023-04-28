@@ -1,7 +1,7 @@
 # Energy consumption forecasting
 
 ## Context
-This notebook was created for a project from the discipline Energy Planning, taken during my graduation in energy engineering. The idea behind it is to forecast the hourly energy consumption for a week of the south-eastern region subsystem, based on the ONS (Operador do Sistema Nacional) division. 
+This notebook was created for a project for a class called "Energy Planning", taken during my graduation in energy engineering. The idea behind it is to forecast the hourly energy consumption for a week of the south-eastern region subsystem, based on the ONS (Operador do Sistema Nacional) division. 
 
 ## What to expect
 The forecasting is made through a multivariable linear system, which uses climate data (temperature and solar radiation) from major cities of the region, which is the biggest one in the brazilian electrical grid. The objective of the notebook, as said, was to comply with the project's requirements. 
