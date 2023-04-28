@@ -3,6 +3,8 @@
 ## Context
 This notebook was created for a project for a class called "Energy Planning", taken during my graduation in energy engineering. The idea behind it is to forecast the hourly energy consumption for a week of the south-eastern region subsystem, based on the ONS (Operador do Sistema Nacional) division. 
 
+I'll definitely work more on it, applying probably different techniques to improve the model's accuracy and performance.
+
 ## What to expect
 The forecasting is made through a multivariable linear system, which uses climate data (temperature and solar radiation) from major cities of the region, the biggest one in the brazilian electrical system, in terms of infrastructure, loads, and generation. The objective of the notebook, as said, was to comply with the project's requirements, so there's a LOT of room for improvement. 
 
